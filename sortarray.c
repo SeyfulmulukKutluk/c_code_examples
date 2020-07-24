@@ -1,6 +1,6 @@
 #include<stdio.h>
 #define SIZE 10
-// Author:Seyfülmülük Kutluk email:seyfkutluk@gmail.com or email:kutluk@itu.edu.tr
+// Author:Seyfülmülük Kutluk email:seyfkutluk@gmail.com or email:kutluk18@itu.edu.tr
 
 void sortb(int *arr, int size);
 void sorts(int *arr, int size);
