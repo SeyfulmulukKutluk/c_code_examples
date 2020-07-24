@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-// Author:Seyfülmülük Kutluk
-
+// Author:Seyfülmülük Kutluk email:seyfkutluk@gmail.com , kutluk18@itu.edu.tr
 
 #define SIZE 10
 
